@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vir Malhotra</h1>
-<h3 align="center">A passionate Computer Science student at New York University Abu Dhabi</h3>
+<h3 align="center">A Computer Science student at New York University Abu Dhabi</h3>
 
 - 📫 Reach me at **vm2426@nyu.edu**
-
-- ⚡ Fun fact **I DJ and produce music, play badminton, and love public speaking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
